@@ -1,0 +1,18 @@
+name: searchHFforMCP
+type: gradio-space
+sdk: gradio
+
+metadata:
+  space_id: Chris4K/searchHFforMCP
+  original_url: https://huggingface.co/spaces/Chris4K/searchHFforMCP
+
+deploy:
+  targets:
+    - public-repo
+    - huggingface
+
+build:
+  command: bash build.sh
+
+test:
+  command: echo "Tests not yet implemented"
