@@ -1,5 +1,5 @@
-# Core gradio>=4.0.0 with MCP support
-gradio>=4.0.0[mcp]>=5.0.0
+# Core gradio>=4.44.0 with MCP support
+gradio>=4.44.0[mcp]>=5.0.0
 
 # MCP dependencies
 mcp>=1.0.0
